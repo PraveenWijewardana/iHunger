@@ -6,7 +6,6 @@ import classespackage.Order;
 import com.formdev.flatlaf.FlatDarkLaf;
 import com.formdev.flatlaf.FlatLightLaf;
 
-
 public class Home extends javax.swing.JFrame {
     public static int orderId = 1000;
     public static Order[] orderArray = new Order[0];
