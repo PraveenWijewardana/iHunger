@@ -1,4 +1,4 @@
-nnnn
+
 package gui;
 
 import classespackage.Customer;
