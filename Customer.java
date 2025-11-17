@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Random;
 package classespackage;
 
 public class Customer {
@@ -61,5 +61,6 @@ public class Customer {
     
     
 }
+
 
 
