@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 package classespackage;
 
 public class Customer {
@@ -61,4 +61,5 @@ public class Customer {
     
     
 }
+
 
